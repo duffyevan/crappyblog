@@ -4,7 +4,8 @@
   "description": "A Crappy Blog Engine I Wrote In An Hour",
   "dependencies": {
     "clarity-ui": "^0.10.0-alpha.6",
-    "clarity-icons": "0.10.0-alpha.6"
+    "clarity-icons": "0.10.0-alpha.6",
+    "@webcomponents/custom-elements": "1.0.0"
   },
   "author": "Evan Duffy",
   "license": "MIT"

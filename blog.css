@@ -2,7 +2,12 @@ pre{
 	background-color: #DDDDDD;
 }
 
-.content-container{
+.content-area{
 	padding-left: 3%;
 	padding-right: 3%;
+}
+
+.content-area .content-container{
+	overflow:auto;
+	height:auto;
 }

@@ -4,19 +4,21 @@
 <link rel="stylesheet" href="node_modules/clarity-ui/clarity-ui.min.css">
 <link rel="stylesheet" href="node_modules/clarity-icons/clarity-icons.min.css">
 <link rel="stylesheet" href="blog.css">
+<script src="/node_modules/clarity-icons/clarity-icons.min.js"></script>
 </head>
 <body>
 <div class="main-container">
 <header class="header-6">
 	    <div class="branding">
 	        <a href="#" class="nav-link">
-	            <img src="https://www.evanduffy.org/resources/Bidoof.gif" style="vertical-align: top;"></img>
+	            <img src="http://pokemoncreed.net/img/icon/Wailord.gif" style="vertical-align: top;"></img>
 	            <span class="title">blog.evanduffy.org</span>
 	        </a>
 	    </div>
 	    <div class="header-nav">
-	    	<a class="nav-link nav-text" href="https://www.evanduffy.org">Home</a>
-    		<a class="active nav-link nav-text" href="#">Blog</a>
+    		<a class="nav-link nav-icon" href="https://www.evanduffy.org"><clr-icon shape="home"></clr-icon></a>
+    		<a class="nav-link nav-icon" href="https://www.evanduffy.org/cs.html"><clr-icon shape="code"></clr-icon></a>
+		<a class="active nav-link nav-icon" href="#"><clr-icon shape="chat-bubble"></clr-icon></a>
 		</div>
 	</header>
 	<div class="content-container">
