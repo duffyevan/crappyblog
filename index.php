@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class="main-container">
-<header class="header-6">
+	<header class="header-6">
 	    <div class="branding">
 	        <a href="#" class="nav-link">
 	            <img src="http://pokemoncreed.net/img/icon/Wailord.gif" style="vertical-align: top;"></img>
@@ -17,9 +17,12 @@
 	    </div>
 	    <div class="header-nav">
     		<a class="nav-link nav-icon" href="https://www.evanduffy.org"><clr-icon shape="home"></clr-icon></a>
-    		<a class="nav-link nav-icon" href="https://www.evanduffy.org/cs.html"><clr-icon shape="code"></clr-icon></a>
+    		<a class="nav-link nav-icon" href="https://www.evanduffy.org/cs.html"><clr-icon shape="command"></clr-icon></a>
 		<a class="active nav-link nav-icon" href="#"><clr-icon shape="chat-bubble"></clr-icon></a>
-		</div>
+	    </div>
+	    <div class="header-actions">
+    		<a class="nav-link nav-icon" href="https://github.com/duffyevan/crappyblog"><clr-icon shape="code"></clr-icon></a>
+	    </div>
 	</header>
 	<div class="content-container">
 		<div class="content-area">
